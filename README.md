@@ -1,2 +1,7 @@
 # web
-Development  educational website.
+Design and development of an online educational platform.
+
+PANAGIOTOPOULOS GRIGORIS. 
+AM:1055. 
+UNIVERSITY OF WESTERN MACEDONIA. 
+DEPARTMENT OF ELECTRICAL & COMPUTER ENGINEERING.
